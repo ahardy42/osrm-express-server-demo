@@ -1,0 +1,4 @@
+node_modules
+*.osm.pbf
+*.osrm
+*.osrm.*
